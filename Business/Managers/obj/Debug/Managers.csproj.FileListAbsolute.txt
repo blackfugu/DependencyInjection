@@ -1,0 +1,9 @@
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\bin\Debug\AaronPuffer.DependencyInjection.Business.Managers.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\bin\Debug\AaronPuffer.DependencyInjection.Business.Managers.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\bin\Debug\AaronPuffer.DependencyInjection.Data.Repository.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\bin\Debug\AaronPuffer.DependencyInjection.DTO.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\bin\Debug\AaronPuffer.DependencyInjection.Data.Repository.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\bin\Debug\AaronPuffer.DependencyInjection.DTO.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\obj\Debug\Managers.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\obj\Debug\AaronPuffer.DependencyInjection.Business.Managers.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers\obj\Debug\AaronPuffer.DependencyInjection.Business.Managers.pdb

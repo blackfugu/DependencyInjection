@@ -1,0 +1,13 @@
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.Business.Managers.Tests.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.Business.Managers.Tests.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.Business.Managers.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.Data.Repository.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.DTO.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.Data.Repository.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.DTO.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\AaronPuffer.DependencyInjection.Business.Managers.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\obj\Debug\Managers.Tests.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\obj\Debug\AaronPuffer.DependencyInjection.Business.Managers.Tests.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Business\Managers.Tests\Managers.Tests\obj\Debug\AaronPuffer.DependencyInjection.Business.Managers.Tests.pdb
