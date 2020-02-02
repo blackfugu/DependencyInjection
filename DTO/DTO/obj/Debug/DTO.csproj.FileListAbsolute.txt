@@ -1,0 +1,5 @@
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\DTO\DTO\bin\Debug\AaronPuffer.DependencyInjection.DTO.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\DTO\DTO\bin\Debug\AaronPuffer.DependencyInjection.DTO.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\DTO\DTO\obj\Debug\AaronPuffer.DependencyInjection.DTO.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\DTO\DTO\obj\Debug\AaronPuffer.DependencyInjection.DTO.pdb
