@@ -1,0 +1,7 @@
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Data\Repository\bin\Debug\AaronPuffer.DependencyInjection.Data.Repository.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Data\Repository\bin\Debug\AaronPuffer.DependencyInjection.Data.Repository.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Data\Repository\bin\Debug\AaronPuffer.DependencyInjection.DTO.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Data\Repository\bin\Debug\AaronPuffer.DependencyInjection.DTO.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Data\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Data\Repository\obj\Debug\AaronPuffer.DependencyInjection.Data.Repository.dll
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\Data\Repository\obj\Debug\AaronPuffer.DependencyInjection.Data.Repository.pdb
