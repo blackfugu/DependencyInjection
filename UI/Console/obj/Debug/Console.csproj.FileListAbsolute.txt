@@ -1,0 +1,6 @@
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\UI\Console\bin\Debug\AaronPuffer.DependencyInjection.UI.Console.exe.config
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\UI\Console\bin\Debug\AaronPuffer.DependencyInjection.UI.Console.exe
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\UI\Console\bin\Debug\AaronPuffer.DependencyInjection.UI.Console.pdb
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\UI\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\UI\Console\obj\Debug\AaronPuffer.DependencyInjection.UI.Console.exe
+C:\Users\aaron\Desktop\GitExamples\DependencyInjection\UI\Console\obj\Debug\AaronPuffer.DependencyInjection.UI.Console.pdb
