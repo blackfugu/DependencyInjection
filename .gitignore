@@ -1,0 +1,6 @@
+.dtbcache
+db.lock
+storage*
+.suo
+*.cache
+TemporaryGeneratedFile_*
